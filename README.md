@@ -20,27 +20,6 @@ You can also take the glimpse of our Project, just follow the below steps:
     2.Go to the browser you will land in the landing page just login using your mobile number.
 
 <br>
-
-## Snapshots 📷
-
-1. Home Page
-
-![Header](https://github.com/rawat2511/images/blob/master/myntraHome.png?raw=true)
-
-2. Mega Dropdown
-
-![Header](https://github.com/rawat2511/images/blob/master/myntraMegaDropdown.png?raw=true)
-
-3. Cart Page
-
-![Header](https://github.com/rawat2511/images/blob/master/myntraPayment.png?raw=true)
-
-4. Wishlist Page
-
-![Header](https://github.com/rawat2511/images/blob/master/myntraWishlist.png?raw=true)
-  
-  
-  
   
 ## Features ✨
 
