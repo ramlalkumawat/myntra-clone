@@ -56,20 +56,4 @@ You can also take the glimpse of our Project, just follow the below steps:
 
 <br/>
 
-## Team Members and Contributors 😇
 
-👤 **Shreevali Kushe**
-
-- Github: [Shreevali Kushe](https://github.com/shreevalikushe)
-
-👤 **Shubham Rawat**
-
-- Github: [Shubham Rawat](https://github.com/rawat2511)
-
-👤 **Mansi Garg**
-
-- Github: [Mansi Garg](https://github.com/04Mansigarg)
-
-👤 **Ashish Sinha**
-
-- Github: [Ashish Sinha](https://github.com/a4aks)
